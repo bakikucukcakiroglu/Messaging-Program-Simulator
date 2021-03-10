@@ -1,0 +1,14 @@
+Warning! Server is 50% full.
+Current load of the server is 82 characters.
+Current load of the server is 7 characters.
+Warning! Server is 50% full.
+Current load of the server is 61 characters.
+	From: 0 to: 1
+	Received: 13 Read: 15
+	a very long message...................................
+Current load of the server is 32 characters.
+Current load of the server is 25 characters.
+	From: 1 to: 2
+	Received: 20 Read: 22
+	message
+Current load of the server is 0 characters.

@@ -1,0 +1,144 @@
+Current load of the server is 0 characters.
+Current load of the server is 85 characters.
+Current load of the server is 130 characters.
+Current load of the server is 132 characters.
+Current load of the server is 132 characters.
+Warning! Server is 50% full.
+Current load of the server is 159 characters.
+	From: 0 to: 1
+	Received: 55 Read: 72
+	message6
+Warning! Server is 80% full.
+Warning! Server is 50% full.
+Warning! Server is 80% full.
+	From: 0 to: 1
+	Received: 55 Read: 72
+	message6
+Current load of the server is 249 characters.
+Current load of the server is 267 characters.
+	From: 0 to: 1
+	Received: 55 Read: 72
+	message6
+Warning! Server is 50% full.
+	From: 0 to: 1
+	Received: 55 Read: 72
+	message6
+	From: 2 to: 3
+	Received: 119 Read: 128
+	message20
+Warning! Server is 80% full.
+	From: 4 to: 0
+	Received: 132 Read: 141
+	message14
+Server is full. Deleting all messages...
+Current load of the server is 27 characters.
+Current load of the server is 63 characters.
+Current load of the server is 9 characters.
+Current load of the server is 45 characters.
+	From: 1 to: 2
+	Received: 35 Read: 145
+	message9
+	From: 1 to: 2
+	Received: 35 Read: 145
+	message9
+Current load of the server is 0 characters.
+Current load of the server is 9 characters.
+Current load of the server is 9 characters.
+	From: 2 to: 0
+	Received: 174 Read: 193
+	message64
+	From: 2 to: 0
+	Received: 174 Read: 193
+	message64
+Current load of the server is 56 characters.
+Current load of the server is 66 characters.
+	From: 0 to: 2
+	Received: 178 Read: 253
+	message66
+	From: 2 to: 3
+	Received: 119 Read: 128
+	message20
+Current load of the server is 99 characters.
+	From: 2 to: 0
+	Received: 174 Read: 193
+	message64
+	From: 3 to: 1
+	Received: 274 Read: 291
+	message98
+Current load of the server is 0 characters.
+	From: 1 to: 0
+	Received: 281 Read: 288
+	message95
+	From: 4 to: 3
+	Received: 247 Read: 270
+	message93
+Current load of the server is 20 characters.
+	From: 1 to: 3
+	Received: 303 Read: 331
+	message117
+Current load of the server is 50 characters.
+	From: 1 to: 3
+	Received: 303 Read: 331
+	message117
+Current load of the server is 80 characters.
+Current load of the server is 80 characters.
+	From: 3 to: 4
+	Received: 248 Read: 348
+	message94
+Current load of the server is 140 characters.
+	From: 3 to: 2
+	Received: 336 Read: 341
+	message131
+Warning! Server is 50% full.
+	From: 3 to: 4
+	Received: 248 Read: 348
+	message94
+	From: 3 to: 2
+	Received: 336 Read: 341
+	message131
+	From: 3 to: 2
+	Received: 336 Read: 341
+	message131
+	From: 2 to: 1
+	Received: 334 Read: 364
+	message134
+	From: 3 to: 4
+	Received: 248 Read: 348
+	message94
+	From: 3 to: 4
+	Received: 248 Read: 348
+	message94
+	From: 2 to: 1
+	Received: 334 Read: 364
+	message134
+	From: 3 to: 4
+	Received: 248 Read: 348
+	message94
+	From: 3 to: 2
+	Received: 336 Read: 341
+	message131
+	From: 3 to: 2
+	Received: 336 Read: 341
+	message131
+	From: 2 to: 1
+	Received: 334 Read: 364
+	message134
+	From: 2 to: 1
+	Received: 334 Read: 364
+	message134
+Current load of the server is 110 characters.
+	From: 0 to: 0
+	Received: 338 Read: 392
+	message132
+Current load of the server is 80 characters.
+	From: 3 to: 2
+	Received: 336 Read: 341
+	message131
+Current load of the server is 110 characters.
+Current load of the server is 30 characters.
+	From: 2 to: 1
+	Received: 334 Read: 364
+	message134
+	From: 2 to: 1
+	Received: 334 Read: 364
+	message134

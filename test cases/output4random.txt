@@ -1,0 +1,54 @@
+Current load of the server is 14 characters.
+Warning! Server is 50% full.
+Warning! Server is 80% full.
+Server is full. Deleting all messages...
+Current load of the server is 14 characters.
+Warning! Server is 50% full.
+Current load of the server is 73 characters.
+Warning! Server is 80% full.
+Server is full. Deleting all messages...
+	From: 2 to: 0
+	Received: 13 Read: 15
+	randomMessage7
+Current load of the server is 45 characters.
+	From: 2 to: 0
+	Received: 13 Read: 15
+	randomMessage7
+Current load of the server is 30 characters.
+Warning! Server is 50% full.
+	From: 2 to: 0
+	Received: 13 Read: 15
+	randomMessage7
+Current load of the server is 60 characters.
+Warning! Server is 80% full.
+	From: 2 to: 0
+	Received: 13 Read: 15
+	randomMessage7
+Current load of the server is 90 characters.
+Server is full. Deleting all messages...
+Warning! Server is 50% full.
+Current load of the server is 60 characters.
+Warning! Server is 80% full.
+Server is full. Deleting all messages...
+Current load of the server is 15 characters.
+	From: 2 to: 0
+	Received: 13 Read: 15
+	randomMessage7
+Warning! Server is 50% full.
+	From: 2 to: 1
+	Received: 41 Read: 69
+	randomMessage16
+Warning! Server is 80% full.
+Server is full. Deleting all messages...
+	From: 2 to: 0
+	Received: 13 Read: 15
+	randomMessage7
+Current load of the server is 0 characters.
+	From: 2 to: 1
+	Received: 41 Read: 69
+	randomMessage16
+Current load of the server is 0 characters.
+Current load of the server is 0 characters.
+Warning! Server is 50% full.
+Warning! Server is 80% full.
+Server is full. Deleting all messages...

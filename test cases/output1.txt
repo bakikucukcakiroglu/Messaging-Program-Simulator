@@ -1,0 +1,11 @@
+Warning! Server is 80% full.
+Warning! Server is 80% full.
+Current load of the server is 80 characters.
+Server is full. Deleting all messages...
+Current load of the server is 0 characters.
+Warning! Server is 80% full.
+Current load of the server is 93 characters.
+	From: 1 to: 0
+	Received: 19 Read: 20
+	cbcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcd
+Current load of the server is 1 characters.
